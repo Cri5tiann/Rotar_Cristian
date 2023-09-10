@@ -57,8 +57,8 @@ public class HomeWork3 {
         for (float a= 1; a<= 99; a+= 2){
             float b= a+2;
             sum += a/b;
-            if (a == 97)
-                System.out.println(sum);
         }
+
+        System.out.println(sum);
     }
 }
