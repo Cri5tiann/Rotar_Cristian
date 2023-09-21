@@ -10,12 +10,7 @@ public class Circle {
 
     public Circle(double radius){
         this.radius = radius;
-        calculateArea(radius);
+        System.out.println("result is:" + 3.14 * (radius * radius));
     }
 
-
-
-    public void calculateArea(double r){
-        System.out.println("result is:" + 3.14 * (r * r));
-    }
 }
