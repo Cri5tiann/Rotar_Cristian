@@ -15,7 +15,6 @@ public class HomeWorkNr5 {
         int sum = 0;
         long multiplication = 1;
 
-
         for(int number = 0; number != numbers.length; number++) {
         if (number % 2 == 0) {
             sum += number; }
