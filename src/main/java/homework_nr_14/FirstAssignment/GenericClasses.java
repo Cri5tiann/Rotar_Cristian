@@ -1,5 +1,5 @@
 package homework_nr_14.FirstAssignment;
 
-public abstract class GenericClasses {
+public abstract class GenericClasses<T> {
 }
 
